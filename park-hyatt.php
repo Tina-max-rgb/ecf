@@ -29,9 +29,9 @@
 
 <div id="ph">
 <h4> Premiére suite de l'établissement Park-Hyatt</h4>
-<img class="pic43" src="/WWW/GestionHotel/images/img43.jpg"alt="p43">
-<img class="pic44" src="/WWW/GestionHotel/images/img44.jpg"alt="p44">
-<img class="pic45" src="/WWW/GestionHotel/images/img45.jpg"alt="p45">
+<img class="pic43" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img43.jpg"alt="p43">
+<img class="pic44" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img44.jpg"alt="p44">
+<img class="pic45" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img45.jpg"alt="p45">
 <h2>prix</h2><strong>1500€</strong>
 <p>Cette suite abrite une chambre à coucher, et une salle de bain, et une salle de sport<p>
 <button class="btn btn-succes"> <a href="reservation.php"> Réserver</a></button>
@@ -39,32 +39,32 @@
 
 <div id="ph1">
 <h4> Seconde suite Park-Hyatt</h4>
-<img class="pic46" src="/WWW/GestionHotel/images/img46.jpg"alt="p46">
-<img class="pic47" src="/WWW/GestionHotel/images/img47.jpg"alt="p47">
-<img class="pic48" src="/WWW/GestionHotel/images/img48.jpg"alt="p48">
-<img class="pic49" src="/WWW/GestionHotel/images/img49.jpg"alt="p49">
+<img class="pic46" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img46.jpg"alt="p46">
+<img class="pic47" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img47.jpg"alt="p47">
+<img class="pic48" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img48.jpg"alt="p48">
+<img class="pic49" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img49.jpg"alt="p49">
 <h2>prix</h2><strong>1800€</strong>
 <p>Cette suite abrite deux chambres à coucher, et une salle de bain, et un jardin<p>
 <button class="btn btn-succes"> <a href="reservation.php"> Réserver</a></button>
 </div>
 <div id="ph2">
-<h4> Troisiéme suite Louis 4</h4>
-<img class="pic50" src="/WWW/GestionHotel/images/img50.jpg"alt="p50">
-<img class="pic51" src="/WWW/GestionHotel/images/img51.jpg"alt="p51">
-<img class="pic52" src="/WWW/GestionHotel/images/img52.jpg"alt="p52">
-<img class="pic53" src="/WWW/GestionHotel/images/img53.jpg"alt="p53">
+<h4> Troisiéme suite Park-Hyatt</h4>
+<img class="pic50" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img50.jpg"alt="p50">
+<img class="pic51" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img51.jpg"alt="p51">
+<img class="pic52" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img52.jpg"alt="p52">
+<img class="pic53" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img53.jpg"alt="p53">
 <h2>prix</h2><strong>1800€</strong>
 <p>Cette suite abrite deux chambres à coucher, et une salle de bain, et un jardin, et une pscine<p>
 <button class="btn btn-succes"> <a href="reservation.php"> Réserver</a></button>
 </div>
 <div id="ph3">
-<h4> Quatriéme suite Louis 4</h4>
-<img class="pic54" src="/WWW/GestionHotel/images/img54.jpg"alt="p54">
-<img class="pic55" src="/WWW/GestionHotel/images/img55.jpg"alt="p55">
-<img class="pic56" src="/WWW/GestionHotel/images/img56.jpg"alt="p56">
+<h4> Quatriéme suite Park-Hyatt</h4>
+<img class="pic54" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img54.jpg"alt="p54">
+<img class="pic55" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img55.jpg"alt="p55">
+<img class="pic56" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img56.jpg"alt="p56">
 <h2>prix</h2><strong>1400€</strong>
 <p>Cette suite abrite une chambre à coucher, et une salle de bain, et un jardin<p>
-<button class="btn btn-primary-succes"> <a href="reservation.php"> Réserver</a></button>
+<button class="btn btn-succes"> <a href="reservation.php"> Réserver</a></button>
 </div>
 
 
