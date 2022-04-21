@@ -28,9 +28,9 @@
 
 <div id="sh">
 <h4> Premiére suite de l'établissement Shanri-la</h4>
-<img class="pic31" src="/WWW/GestionHotel/images/img31.jpg"alt="p31">
-<img class="pic32" src="/WWW/GestionHotel/images/img32.jpg"alt="p32">
-<img class="pic33" src="/WWW/GestionHotel/images/img33.jpg"alt="p33">
+<img class="pic31" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img31.jpg"alt="p31">
+<img class="pic32" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img32.jpg"alt="p32">
+<img class="pic33" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img33.jpg"alt="p33">
 <h2>prix</h2><strong>900€</strong>
 <p>Cette suite abrite deux chambres, et une salle pour manger, elle est idéale pour se reposer et passer de bons moments<p>
 <button class="btn btn-succes"> <a href="reservation.php"> Réserver</a></button>
@@ -38,27 +38,27 @@
 
 <div id="sh1">
 <h4> Seconde suite Park-Hyatt</h4>
-<img class="pic34" src="/WWW/GestionHotel/images/img34.jpg"alt="p34">
-<img class="pic35" src="/WWW/GestionHotel/images/img35.jpg"alt="p35">
-<img class="pic36" src="/WWW/GestionHotel/images/img36.jpg"alt="p36">
+<img class="pic34" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img34.jpg"alt="p34">
+<img class="pic35" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img35.jpg"alt="p35">
+<img class="pic36" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img36.jpg"alt="p36">
 <h2>prix</h2><strong>1100€</strong>
 <p>Cette suite abrite une chambre romantique, et une salle de bain, elle est idéale pour des jeunes mariés<p>
 <button class="btn btn-succes"> <a href="reservation.php"> Réserver</a></button>
 </div>
 <div id="sh2">
 <h4> Troisiéme suite Park-Hyatt</h4>
-<img class="pic37" src="/WWW/GestionHotel/images/img37.jpg"alt="p37">
-<img class="pic38" src="/WWW/GestionHotel/images/img38.jpg"alt="p38">
-<img class="pic39" src="/WWW/GestionHotel/images/img39.jpg"alt="p39">
+<img class="pic37" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img37.jpg"alt="p37">
+<img class="pic38" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img38.jpg"alt="p38">
+<img class="pic39" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img39.jpg"alt="p39">
 <h2>prix</h2><strong>1600€</strong>
 <p>Cette suite abrite une chambre à coucher, et un salon et une salle de bain, et une piscine, elle est idéale pour passer des vacances d'été<p>
 <button class="btn btn-succes"> <a href="reservation.php"> Réserver</a></button>
 </div>
 <div id="sh3">
 <h4> Quatriéme suite Park-Hyatt</h4>
-<img class="pic40" src="/WWW/GestionHotel/images/img40.jpg"alt="p40">
-<img class="pic41" src="/WWW/GestionHotel/images/img41.jpg"alt="p41">
-<img class="pic42" src="/WWW/GestionHotel/images/img42.jpg"alt="p42">
+<img class="pic40" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img40.jpg"alt="p40">
+<img class="pic41" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img41.jpg"alt="p41">
+<img class="pic42" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img42.jpg"alt="p42">
 <h2>prix</h2><strong>1250€</strong>
 <p>Cette suite abrite une chambre à coucher, et une salle de bain, et une salle pour prendre les repas<p>
 <button class="btn btn-primary-succes"> <a href="reservation.php"> Réserver</a></button>
