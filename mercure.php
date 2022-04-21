@@ -33,14 +33,14 @@
 <button class="btn btn-succes"> <a href="reservation.php"> Réserver</a></button>
 </div>
 <div id="SM2">
-<img class="pic2" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/image2.jpg?raw=true"alt="p2">
+<img class="pic2" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img2.jpg?raw=true"alt="p2">
 <h4>Seconde Suite de Mercure</h4>
 <h2>prix</h2>
 <p>Cette suite  comporte 1 chambres à coucher romantique idéale pour un couple et une salle de bain avec une magnifique vue le prix d'une nuit est de 800€<p>
 <button class="btn btn-succes"> <a href="reservation.php"> Réserver</a></button>
 </div>
 <div id="SM3">
-<img class="pic3" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/image3.jpg?raw=true"alt="p3">
+<img class="pic3" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img3.jpg?raw=true"alt="p3">
 <h4>Troisiéme suite luxueuse de Mercure</h4>
 <p>Cette suite  comporte 2 chambres à coucher et une piéce pour manger, elle est idéale pour passer un séjour familial, le prix d'une réservation par nuit est 600€<p>
 <button class="btn btn-succes"> <a href="reservation.php"> Réserver</a></button>

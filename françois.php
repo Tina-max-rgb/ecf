@@ -26,19 +26,19 @@
 
 <div id="SF">
 <h4> premiére suite de l'établissement François Mitterand</h4>
-<img class="pic24" src="/WWW/GestionHotel/images/img24.jpg"alt="p24">
-<img class="pic25" src="/WWW/GestionHotel/images/img25.jpg"alt="p25">
-<img class="pic26" src="/WWW/GestionHotel/images/img26.jpg"alt="p26">
-<img class="pic27" src="/WWW/GestionHotel/images/img27.jpg"alt="p27">
+<img class="pic24" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img24.jpg"alt="p24">
+<img class="pic25" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img25.jpg"alt="p25">
+<img class="pic26" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img26.jpg"alt="p26">
+<img class="pic27" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img27.jpg"alt="p27">
 <h2>prix</h2><strong>1400€</strong>
 <p>Cette suite abrite deux grandes chambres à coucher, et une salle de bain, le room service est proposé pour cette suite, elle est idéale pour deux couples qui passent un séjour ensemble<p>
 <button class="btn btn-succes"> <a href="reservation.php"> Réserver</a></button>
 </div>
 
 <div id="SF2">
-<img class="pic28" src="/WWW/GestionHotel/images/img28.jpg"alt="p28">
-<img class="pic29" src="/WWW/GestionHotel/images/img29.jpg"alt="p29">
-<img class="pic30" src="/WWW/GestionHotel/images/img30.jpg"alt="p30">
+<img class="pic28" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img28.jpg"alt="p28">
+<img class="pic29" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img29.jpg"alt="p29">
+<img class="pic30" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img30.jpg"alt="p30">
 <h4>Seconde Suite de François Mitterand</h4>
 <h2>prix</h2><strong>1200€</strong>
 <p>Cette suite abrite une grande chambre à coucher, et une chambre pour enfant, elle est idéale pour passer un séjour familial<p>
