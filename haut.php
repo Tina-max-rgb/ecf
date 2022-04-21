@@ -16,7 +16,7 @@
     <a href="index.php" class="nav">HYPNOS</a>
     <div id="logo"> 
         
-<img alt src="/WWW/GestionHotel/images/logohypnos.PNG">
+<img alt src="https://github.com/Tina-max-rgb/ecf/blob/master/images/logohypnos.PNG?raw=true">
     
     
     </div>
