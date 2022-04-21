@@ -29,9 +29,9 @@
 
 <div id="SL">
 <h4> premiére suite de l'établissement Louis 4</h4>
-<img class="pic13" src="/WWW/GestionHotel/images/img13.jpg"alt="p13">
-<img class="pic8" src="/WWW/GestionHotel/images/img8.jpg"alt="p8">
-<img class="pic7" src="/WWW/GestionHotel/images/img7.jpg"alt="p7">
+<img class="pic13" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img13.jpg"alt="p13">
+<img class="pic8" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img8.jpg"alt="p8">
+<img class="pic7" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img7.jpg"alt="p7">
 <h2>prix</h2><strong>1200€</strong>
 <p>Cette suite comporte 1 chambre à coucher romantique idéale pour un couple et une salle de bain et un dressing et une salle de jeu<p>
 <button class="btn btn-succes"> <a href="reservation.php"> Réserver</a></button>
@@ -39,28 +39,28 @@
 
 <div id="SL2">
 <h4> Seconde suite Louis 4</h4>
-<img class="pic14" src="/WWW/GestionHotel/images/img14.jpg"alt="p14">
-<img class="pic15" src="/WWW/GestionHotel/images/img15.jpg"alt="p15">
-<img class="pic16" src="/WWW/GestionHotel/images/img16.jpg"alt="p16">
+<img class="pic14" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img14.jpg"alt="p14">
+<img class="pic15" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img15.jpg"alt="p15">
+<img class="pic16" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img16.jpg"alt="p16">
 <h2>prix</h2><strong>1000€</strong>
 <p>Cette suite comporte 1 chambre à coucher romantique idéale pour un couple et une salle de bain et une salle pour manger<p>
 <button class="btn btn-succes"> <a href="reservation.php"> Réserver</a></button>
 </div>
 <div id="SL3">
 <h4> Troisiéme suite Louis 4</h4>
-<img class="pic17" src="/WWW/GestionHotel/images/img17.jpg"alt="p17">
-<img class="pic18" src="/WWW/GestionHotel/images/img18.jpg"alt="p18">
-<img class="pic19" src="/WWW/GestionHotel/images/img19.jpg"alt="p19">
-<img class="pic20" src="/WWW/GestionHotel/images/img20.jpg"alt="p20">
+<img class="pic17" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img17.jpg"alt="p17">
+<img class="pic18" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img18.jpg"alt="p18">
+<img class="pic19" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img19.jpg"alt="p19">
+<img class="pic20" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img20.jpg"alt="p20">
 <h2>prix</h2><strong>1400€</strong>
 <p>Cette suite se situe au coeur de lhotel et elle est idéale pour un séjour familiale<p>
 <button class="btn btn-succes"> <a href="reservation.php"> Réserver</a></button>
 </div>
 <div id="SL4">
 <h4> Quatriéme suite Louis 4</h4>
-<img class="pic21" src="/WWW/GestionHotel/images/img21.jpg"alt="p21">
-<img class="pic22" src="/WWW/GestionHotel/images/img22.jpg"alt="p22">
-<img class="pic23" src="/WWW/GestionHotel/images/img23.jpg"alt="p23">
+<img class="pic21" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img21.jpg"alt="p21">
+<img class="pic22" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img22.jpg"alt="p22">
+<img class="pic23" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img23.jpg"alt="p23">
 <h2>prix</h2><strong>900€</strong>
 <p>Cette suite abrite une grande chambre à coucher, elle est idéale pour passer un séjour entre amoureux<p>
 <button class="btn btn-succes"> <a href="reservation.php"> Réserver</a></button>
