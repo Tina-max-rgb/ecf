@@ -27,10 +27,10 @@
 
 <div id="SB">
 <h4> premiére suite de l'établissement Burgundy</h4>
-<img class="pic70" src="/WWW/GestionHotel/images/img70.jpg"alt="p70">
-<img class="pic71" src="/WWW/GestionHotel/images/img71.jpg"alt="p71">
-<img class="pic72" src="/WWW/GestionHotel/images/img72.jpg"alt="p72">
-<img class="pic69" src="/WWW/GestionHotel/images/img69.jpg"alt="p69">
+<img class="pic70" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img70.jpg"alt="p70">
+<img class="pic71" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img71.jpg"alt="p71">
+<img class="pic72" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img72.jpg"alt="p72">
+<img class="pic69" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img69.jpg"alt="p69">
 <h2>prix</h2><strong>1700€</strong>
 <p>Cette suite abrite une chambre à coucher, et une salle de bain et un espace pour se distraire<p>
 <button class="btn btn-succes"> <a href="reservation.php"> Réserver</a></button>
@@ -38,20 +38,20 @@
 
 <div id="SB2">
 <h4>Seconde suite de l'établissement Burgundy</h4>
-<img class="pic73" src="/WWW/GestionHotel/images/img73.jpg"alt="p73">
-<img class="pic74" src="/WWW/GestionHotel/images/img74.jpg"alt="p74">
-<img class="pic75" src="/WWW/GestionHotel/images/img75.jpg"alt="p75">
-<img class="pic76" src="/WWW/GestionHotel/images/img76.jpg"alt="p76">
+<img class="pic73" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img73.jpg"alt="p73">
+<img class="pic74" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img74.jpg"alt="p74">
+<img class="pic75" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img75.jpg"alt="p75">
+<img class="pic76" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img76.jpg"alt="p76">
 <h2>prix</h2><strong>1900€</strong>
 <p>Cette suite abrite deux chambres à coucher, et une salle de bain et un jardin<p>
 <button class="btn btn-succes"> <a href="reservation.php"> Réserver</a></button>
 </div>
 <div id="SB3">
 <h4>Troisiéme Suite de l'établissement Burgundy</h4>
-<img class="pic77" src="/WWW/GestionHotel/images/img77.jpg"alt="p77">
-<img class="pic78" src="/WWW/GestionHotel/images/img78.jpg"alt="p78">
-<img class="pic79" src="/WWW/GestionHotel/images/img79.jpg"alt="p79">
-<img class="pic80" src="/WWW/GestionHotel/images/img80.jpg"alt="p80">
+<img class="pic77" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img77.jpg"alt="p77">
+<img class="pic78" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img78.jpg"alt="p78">
+<img class="pic79" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img79.jpg"alt="p79">
+<img class="pic80" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img80.jpg"alt="p80">
 <h2>prix</h2><strong>1700€</strong>
 <p>Cette suite abrite une chambre à coucher, et une chambre pour enfant, et une salle de bain et un espace de lecture<p>
 <button class="btn btn-succes"> <a href="reservation.php"> Réserver</a></button>
