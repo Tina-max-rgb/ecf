@@ -26,21 +26,21 @@
 <p>Cet établissement se situe au 121 avenue du général de gaulle 75001 Paris<p>
 
 <div id="SM">
-<img class="pic1" src="/WWW/GestionHotel/images/image1.jpg"alt="p1">
+<img class="pic1" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/image1.jpg?raw=true"alt="p1">
 <h4> Suite luxueuse du Mercure</h4>
 <h2>prix</h2><strong>1000€</strong>
 <p>Cette suite luxueuse comporte deux chambres à coucher et un dressing et une salle de bain et une piéce pour manger, le prix d'une réservation pour une nuit est de 1000€<p>
 <button class="btn btn-succes"> <a href="reservation.php"> Réserver</a></button>
 </div>
 <div id="SM2">
-<img class="pic2" src="/WWW/GestionHotel/images/img2.jpg"alt="p2">
+<img class="pic2" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/image2.jpg?raw=true"alt="p2">
 <h4>Seconde Suite de Mercure</h4>
 <h2>prix</h2>
 <p>Cette suite  comporte 1 chambres à coucher romantique idéale pour un couple et une salle de bain avec une magnifique vue le prix d'une nuit est de 800€<p>
 <button class="btn btn-succes"> <a href="reservation.php"> Réserver</a></button>
 </div>
 <div id="SM3">
-<img class="pic3" src="/WWW/GestionHotel/images/img3.jpg"alt="p3">
+<img class="pic3" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/image3.jpg?raw=true"alt="p3">
 <h4>Troisiéme suite luxueuse de Mercure</h4>
 <p>Cette suite  comporte 2 chambres à coucher et une piéce pour manger, elle est idéale pour passer un séjour familial, le prix d'une réservation par nuit est 600€<p>
 <button class="btn btn-succes"> <a href="reservation.php"> Réserver</a></button>
