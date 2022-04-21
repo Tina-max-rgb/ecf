@@ -27,10 +27,10 @@
 
 <div id="SC">
 <h4> premiére suite de l'établissement Costes Castiglione </h4>
-<img class="pic57" src="/WWW/GestionHotel/images/img57.jpg"alt="p57">
-<img class="pic58" src="/WWW/GestionHotel/images/img58.jpg"alt="p58">
-<img class="pic59" src="/WWW/GestionHotel/images/img59.jpg"alt="p59">
-<img class="pic60" src="/WWW/GestionHotel/images/img60.jpg"alt="p60">
+<img class="pic57" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img57.jpg"alt="p57">
+<img class="pic58" src="/https://github.com/Tina-max-rgb/ecf/blob/master/images/img58.jpg"alt="p58">
+<img class="pic59" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img59.jpg"alt="p59">
+<img class="pic60" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img60.jpg"alt="p60">
 <h2>prix</h2><strong>1400€</strong>
 <p>Cette suite abrite deux grandes chambres à coucher, et une salle de bain, le room service est proposé pour cette suite, elle est idéale pour deux couples qui passent un séjour ensemble<p>
 <button class="btn btn-succes"> <a href="reservation.php"> Réserver</a></button>
@@ -38,20 +38,20 @@
 
 <div id="SC2">
 <h4>Deuxiéme suite de l'établissement Costes Castiglione</h4>
-<img class="pic61" src="/WWW/GestionHotel/images/img61.jpg"alt="p61">
-<img class="pic62" src="/WWW/GestionHotel/images/img62.jpg"alt="p62">
-<img class="pic63" src="/WWW/GestionHotel/images/img63.jpg"alt="p63">
-<img class="pic64" src="/WWW/GestionHotel/images/img63.jpg"alt="p64">
+<img class="pic61" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img61.jpg"alt="p61">
+<img class="pic62" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img62.jpg"alt="p62">
+<img class="pic63" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img63.jpg"alt="p63">
+<img class="pic64" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img64.jpg"alt="p64">
 <h2>prix</h2><strong>1200€</strong>
 <p>Cette suite abrite une grande chambre à coucher, et une chambre pour enfant, elle est idéale pour passer un séjour familial<p>
 <button class="btn btn-succes"> <a href="reservation.php"> Réserver</a></button>
 </div>
 <div id="SC3">
 <h4>Troisiéme suite de l'établissement Costes Castiglione</h4>
-<img class="pic65" src="/WWW/GestionHotel/images/img65.jpg"alt="p65">
-<img class="pic66" src="/WWW/GestionHotel/images/img66.jpg"alt="p66">
-<img class="pic67" src="/WWW/GestionHotel/images/img67.jpg"alt="p67">
-<img class="pic68" src="/WWW/GestionHotel/images/img67.jpg"alt="p68">
+<img class="pic65" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img65.jpg"alt="p65">
+<img class="pic66" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img66.jpg"alt="p66">
+<img class="pic67" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img67.jpg"alt="p67">
+<img class="pic68" src="https://github.com/Tina-max-rgb/ecf/blob/master/images/img68.jpg"alt="p68">
 <h2>prix</h2><strong>1200€</strong>
 <p>Cette suite abrite une grande chambre à coucher, et une chambre pour enfant, elle est idéale pour passer un séjour familial<p>
 <button class="btn btn-succes"> <a href="reservation.php"> Réserver</a></button>
