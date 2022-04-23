@@ -31,7 +31,7 @@
     
 </ul>
 <ul class="nav">
-    <li><a href="deconnexionn.php"> </a></li>
+    <li><a href="deconnexionn.php"> Déconnexion </a></li>
 
 </div>
 </ul>
