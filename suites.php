@@ -1,6 +1,9 @@
 <?php
 require_once("connexionbd.php");
+session_start();
+if(!isset($_SESSION['user']))
 
+header('location:formulairc.php');
 $rqt="select * from suites";
 $ist=$pdo->query($rqt);
 ?>

@@ -4,9 +4,10 @@ require_once("connexionbd.php");
 $rt="select * from reserverunesuite";
 $insertp=$pdo->query($rt);
 
-//session_start();
-//if(!isset($_SESSION['pseudo']))
-//header('location:formulairc.php');
+session_start();
+if(!isset($_SESSION['user']))
+
+header('location:formulairc.php');
 
 ?>
 

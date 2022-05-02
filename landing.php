@@ -1,13 +1,12 @@
 <?php 
     session_start();
-    require_once("connexionbd.php"); // ajout connexion bdd 
-   // si la session existe pas soit si l'on est pas connecté on redirige
+    require_once("connexionbd.php"); 
     if(!isset($_SESSION['user'])){
-        header('Location:formulairc.php');
+        header('Location:haut.php');
         die();
     }
 
-    // On récupere les données de l'utilisateur
+   
     $req = $pdo->prepare('SELECT * FROM utilisateurs WHERE passeword = ?');
     $req->execute(array($_SESSION['user']));
     $data = $req->fetch();
@@ -17,11 +16,11 @@
 <html lang="en">
   <head>
     <title>Espace de connexion</title>
-    <!-- Required meta tags -->
+ 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <!-- Bootstrap CSS -->
+   
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   </head>
   <body>
@@ -47,48 +46,16 @@
                         <h1 class="p">Bonjour !</h1>
                      
                         <a href="deconnexionn.php" class="btn btn-danger btn-lg">Déconnexion</a>
-                        <!-- Button trigger modal -->
-                        <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#change_password">
-                          Changer mon mot de passe
-                        </button>
+                      
+                        
                 </div>
-            </div>
-        </div>    
+            
 
        
 
                                   
         <!-- Modal -->
-        <div class="modal fade" id="change_password" tabindex="-1" role="dialog" aria-labelledby="modelTitleId" aria-hidden="true">
-            <div class="modal-dialog" role="document">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <h5 class="modal-title">Changer mon mot de passe</h5>
-                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                <span aria-hidden="true">&times;</span>
-                            </button>
-                         </div>
-                            <div class="modal-body">
-                                <form action="layouts/change_password.php" method="POST">
-                                    <label for='current_password'>Mot de passe actuel</label>
-                                    <input type="password" id="current_password" name="current_password" class="form-control" required/>
-                                    <br />
-                                    <label for='new_password'>Nouveau mot de passe</label>
-                                    <input type="password" id="new_password" name="new_password" class="form-control" required/>
-                                    <br />
-                                    <label for='new_password_retype'>Re tapez le nouveau mot de passe</label>
-                                    <input type="password" id="new_password_retype" name="new_password_retype" class="form-control" required/>
-                                    <br />
-                                    <button type="submit" class="btn btn-success">Sauvegarder</button>
-                                </form>
-                            </div>
-                            <div class="modal-footer">
-                                <button type="button" class="btn btn-danger" data-dismiss="modal">Fermer</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
+    
         
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
